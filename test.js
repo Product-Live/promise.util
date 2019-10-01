@@ -1,6 +1,6 @@
 
 const promise = require('./index.js'),
-	is = require('type.util'),
+	is = require('@product-live/type.util'),
 	assert = require('assert');
 
 process.on('unhandledRejection', (err) => {

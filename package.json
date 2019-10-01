@@ -1,5 +1,5 @@
 {
-	"name": "promise.util",
+	"name": "@product-live/promise.util",
 	"version": "1.0.1",
 	"description": "",
 	"main": "index.js",
@@ -11,17 +11,17 @@
 	"author": "anzerr",
 	"license": "MIT",
 	"devDependencies": {
-		"eslint-config-basic": "git+https://git@github.com/anzerr/eslintrc.git"
+		"eslint-config-basic": "git+https://git@github.com/Product-Live/eslintrc.git"
 	},
 	"dependencies": {
-		"type.util": "git+https://github.com/anzerr/type.util.git"
+		"@product-live/type.util": "git+https://github.com/Product-Live/type.util.git"
 	},
 	"eslintConfig": {
 		"extends": "eslint-config-basic"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:anzerr/promise.util.git"
+		"url": "git@github.com:Product-Live/promise.util.git"
 	},
 	"engines": {
 		"node": ">= 0.10.0"

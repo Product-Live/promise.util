@@ -1,5 +1,5 @@
 
-const is = require('type.util');
+const is = require('@product-live/type.util');
 
 class Util {
 
