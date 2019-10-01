@@ -8,13 +8,12 @@ simple es6 promise util.
 
 #### `Install`
 ``` bash
-npm install --save git+https://git@github.com/anzerr/promise.util.git
-npm install --save @anzerr/promise.util
+npm install --save git+https://git@github.com/Product-Live/promise.util.git
 ```
 
 ### `Example`
 ``` javascript
-const promise = require('promise.util');
+const promise = require('@product-live/promise.util');
 const data = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
 promise.measure(() => {
