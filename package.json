@@ -1,6 +1,6 @@
 {
 	"name": "@product-live/promise.util",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
@@ -14,7 +14,7 @@
 		"eslint-config-basic": "git+https://git@github.com/Product-Live/eslintrc.git"
 	},
 	"dependencies": {
-		"@product-live/type.util": "git+https://github.com/Product-Live/type.util.git"
+		"@product-live/type.util": "1.0.10"
 	},
 	"eslintConfig": {
 		"extends": "eslint-config-basic"
@@ -28,7 +28,7 @@
 	},
 	"types": "index.d.ts",
 	"bugs": {
-		"url": "https://github.com/anzerr/promise.util/issues"
+		"url": "https://github.com/Product-Live/promise.util/issues"
 	},
-	"homepage": "https://github.com/anzerr/promise.util#readme"
+	"homepage": "https://github.com/Product-Live/promise.util#readme"
 }
